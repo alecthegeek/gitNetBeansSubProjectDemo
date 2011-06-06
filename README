@@ -1,0 +1,7 @@
+An example of how to configure .gitignore for Netbeans 7.0 IDE
+
+Note:
+
+1) Locaiton of .gitignore file in the directory above all sub projects
+2) This README had to be created outside the IDE as Netbeans does not support
+created files in the directory above a subproject
